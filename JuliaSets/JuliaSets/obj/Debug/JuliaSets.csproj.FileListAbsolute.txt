@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\02-fractals\JuliaSets\JuliaSets\bin\Debug\JuliaSets.exe.config
+C:\Users\user\Desktop\02-fractals\JuliaSets\JuliaSets\bin\Debug\JuliaSets.exe
+C:\Users\user\Desktop\02-fractals\JuliaSets\JuliaSets\bin\Debug\JuliaSets.pdb
+C:\Users\user\Desktop\02-fractals\JuliaSets\JuliaSets\obj\Debug\JuliaSets.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\02-fractals\JuliaSets\JuliaSets\obj\Debug\JuliaSets.Properties.Resources.resources
+C:\Users\user\Desktop\02-fractals\JuliaSets\JuliaSets\obj\Debug\JuliaSets.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\02-fractals\JuliaSets\JuliaSets\obj\Debug\JuliaSets.exe
+C:\Users\user\Desktop\02-fractals\JuliaSets\JuliaSets\obj\Debug\JuliaSets.pdb
